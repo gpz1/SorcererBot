@@ -23,3 +23,5 @@ The available commands at the moment are:
 +potion strength\
 +potion swiftness\
 +potion weakness\
+
+Any suggestions? Contact me on Discord: gpz was taken#4032
