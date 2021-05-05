@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Sorcerer Bot Official GitHub Page
 
-You can use the [editor on GitHub](https://github.com/gpz1/sorcererbot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can add Sorcerer to your Discord server [clicking here](https://discord.com/oauth2/authorize?client_id=837819868518547466&permissions=8&scope=bot). Sorcerer is a Discord Bot made to help Minecraft player to brew their potions.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
