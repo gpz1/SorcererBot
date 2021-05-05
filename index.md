@@ -4,22 +4,22 @@ You can add Sorcerer to your Discord server [clicking here](https://discord.com/
 
 ### Commands
 
-The bot prefix is ## +potion
+The bot prefix is **+potion**
 
 The available commands at the moment are: 
 
-+potion breathing
-+potion fall
-+potion fire
-+potion harming
-+potion health
-+potion ingredients
-+potion invisibility
-+potion jump
-+potion night
-+potion poison
-+potion regeneration
-+potion slowness
-+potion strength
-+potion swiftness
-+potion weakness
++potion breathing\
++potion fall\
++potion fire\
++potion harming\
++potion health\
++potion ingredients\
++potion invisibility\
++potion jump\
++potion night\
++potion poison\
++potion regeneration\
++potion slowness\
++potion strength\
++potion swiftness\
++potion weakness\
