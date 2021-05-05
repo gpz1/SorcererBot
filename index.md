@@ -22,6 +22,6 @@ The available commands at the moment are:
 +potion slowness\
 +potion strength\
 +potion swiftness\
-+potion weakness\
++potion weakness
 
 Any suggestions? Contact me on Discord: gpz was taken#4032
